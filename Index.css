@@ -1,0 +1,19 @@
+body{
+	background-color:#e0fffa ;
+}
+h1, p{
+	font-family: "Merriweather";
+}
+h2, h3 p{
+	font-family:Times new roman ;
+}
+table{
+        border-collapse: collapse;
+        background-color: #e0fff8;
+        width: 100%;
+        margin: 20px auto;c
+td{
+   
+        padding: 10px;
+        margin: 0 auto;
+}
